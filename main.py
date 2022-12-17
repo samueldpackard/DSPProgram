@@ -14,6 +14,7 @@ from scipy import signal
 import matplotlib.pyplot as plt
 import sounddevice
 
+
 #TODO:: figure out why it plays first
 #fix the result label
 #TODO: play the selected frequency ot compare it with the actual
